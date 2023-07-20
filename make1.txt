@@ -1,0 +1,3 @@
+make tool1
+make tool2
+make tool3
