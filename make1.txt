@@ -7,3 +7,6 @@ tool4
 tool5
 make2
 tool6
+
+make3
+tool7
